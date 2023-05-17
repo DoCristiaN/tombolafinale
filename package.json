@@ -1,0 +1,15 @@
+{
+  "name": "tombola",
+  "version": "1.0.0",
+  "description": "tombola tra due o più client",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "donghi",
+  "license": "ISC"
+}
